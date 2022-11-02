@@ -1,0 +1,30 @@
+[
+    {
+        "'id": 1,
+        "name": "House of the Dragon",
+        "downloads": 105,
+        "category": "Adventure",
+        "img": "img/houseofthedragon.jpg",
+        "value": "Download",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eveniet quae laborum fugiat vitae rem, animi quibusdam accusamus nisi eius."
+    },
+    {
+        "'id": 2,
+        "name": "She Hulk",
+        "downloads": 1005,
+        "category": "Scifi",
+        "img": "img/shehulk.jpg",
+        "value": "Download",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eveniet quae laborum fugiat vitae rem, animi quibusdam accusamus nisi eius."
+    },
+    {
+        "'id": 3,
+        "name": "Spriggan",
+        "downloads": 504,
+        "category": "Thriller",
+        "img": "img/spriggan.jpg",
+        "value": "Download",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eveniet quae laborum fugiat vitae rem, animi quibusdam accusamus nisi eius."
+    }
+    
+]
