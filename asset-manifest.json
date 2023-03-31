@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/didamovie/static/css/main.49b25337.css",
+    "main.js": "/didamovie/static/js/main.2e441969.js",
+    "static/media/Roboto-Black.ttf": "/didamovie/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Anton-Regular.ttf": "/didamovie/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/didamovie/static/media/Quicksand-VariableFont_wght.cf52df73d8529b4815ed.ttf",
+    "index.html": "/didamovie/index.html",
+    "main.49b25337.css.map": "/didamovie/static/css/main.49b25337.css.map",
+    "main.2e441969.js.map": "/didamovie/static/js/main.2e441969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b25337.css",
+    "static/js/main.2e441969.js"
+  ]
+}
